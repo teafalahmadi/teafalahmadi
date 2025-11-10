@@ -1,20 +1,28 @@
 ## Hi there 👋
 
+Hi there
+
 💻 Cloud & DevOps Engineer | Passionate about Azure, Automation, and Scalable Infrastructure
 
-🌟 Project:
+# 🛠️ Skills
+☁️ Cloud & Infrastructure
 
-🚀 3-Tier E-Commerce App
- — deployed on Azure AKS using Terraform & CI/CD
+Azure (AKS, Application Gateway, SQL, ACR, Key Vault, Log Analytics)
 
-🛠️ Skills:
+Terraform (modular design, remote state, automation)
 
-Azure: AKS, App Gateway, SQL, ACR, Key Vault, Log Analytics
+# 🐳 DevOps & Automation
 
-DevOps: Terraform, Docker, Kubernetes, ArgoCD, GitHub Actions
+Docker, Kubernetes, ArgoCD, GitHub Actions
 
-Monitoring: Prometheus, Grafana, Application Insights
+GitOps workflows, CI/CD pipelines
 
-MLOps: DVC, MLflow, metrics automation
+# 📊 Monitoring
 
-Scripting & Git: Bash, Python, Git branching & GitOps
+Prometheus, Grafana, Application Insights, DVC
+
+# 💻 Scripting & Version Control
+
+Linux (system administration & automation)
+
+Git branching strategies & collaboration
