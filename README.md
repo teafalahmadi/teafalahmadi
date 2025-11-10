@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hi there
-
 💻 Cloud & DevOps Engineer | Passionate about Azure, Automation, and Scalable Infrastructure
 
 # 🛠️ Skills
