@@ -1,17 +1,20 @@
 ## Hi there 👋
 
-💻 Cloud & DevOps Enthusiast | Azure | Node.js | SQL
+💻 Cloud & DevOps Engineer | Passionate about Azure, Automation, and Scalable Infrastructure
 
-🌟 Projects:  
-- [Three Tier Ecommerce App](https://github.com/teafalahmadi/three_tier_application)
+🌟 Project:
 
-🚀 Skills:  
-- Azure (VMs, SQL, Application Gateway)  
-- Node.js, React, Express.js  
-- Git, GitHub, CI/CD
+🚀 3-Tier E-Commerce App
+ — deployed on Azure AKS using Terraform & CI/CD
 
-📫 Reach me:  
-- [Email](teafjaber@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/teaf-alahmadi-b37a85204)
+🛠️ Skills:
 
-😄 Fun fact: I love automating everything—even my coffee machine someday!
+Azure: AKS, App Gateway, SQL, ACR, Key Vault, Log Analytics
+
+DevOps: Terraform, Docker, Kubernetes, ArgoCD, GitHub Actions
+
+Monitoring: Prometheus, Grafana, Application Insights
+
+MLOps: DVC, MLflow, metrics automation
+
+Scripting & Git: Bash, Python, Git branching & GitOps
