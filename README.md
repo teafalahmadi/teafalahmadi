@@ -11,7 +11,7 @@ Terraform (modular design, remote state, automation)
 
 ## 🐳 DevOps & Automation
 
-Docker, Kubernetes, ArgoCD, GitHub Actions
+Docker, Kubernetes, ArgoCD, Ansible, GitHub Actions
 
 GitOps workflows, CI/CD pipelines
 
